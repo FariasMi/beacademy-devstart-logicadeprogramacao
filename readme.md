@@ -75,6 +75,48 @@ php -v
 ```bash
 php --version
 ```
+
+## Exercícios
+
+**Exercício 1**
+    
+    Faça um algoritmo que receba o nome como entrada e exiba Seja Bem-Vindo [nome]
+
+**Exercício 2**
+    
+    Faça um algoritmo que receba o nome e endereço e exiba-os na tela
+
+**Exercício 3**
+    
+    1. Crie um programa que declare 3 variáveis para
+    receber o Nome, o peso e a altura de uma pessoa.
+    Ao final imprima os dados na tela.
+
+    2. Com base no programa anterior calcule e exiba ao final o 
+    Índice de Massa Corpórea(IMC) da pessoa sabendo que a fórmula para o cálculo é:
+    IMC = peso/(altura*altura);
+
+    OBS: Insira um comentário na linha em que se
+    encontra a fórmula para esclarecer como o cálculo é
+    feito. 
+
+**Exercício 4**
+    
+    Crie um programa que receba o nome e a idade de uma pessoa e exiba:
+    1. O nome e a idade informada;
+    2. Verdadeiro Se a idade é maior que 18;
+    3. Falso se a idade é diferente que 25;
+    4. Falso se a idade é diferente que 25 E o nome é igual a Marcos;
+    5. Verdadeiro se a idade é diferente que 25 OU o nome é igual a Marcos;
+    6. Verdadeiro se a idade dividida por 2 é igual a ZERO;
+    
+**Exercício 5**
+    
+    Crie um programa que receba um valor de depósito
+    do usuário e atualize o seu saldo. Ao final exiba o
+    valor inicial, o depósito e o saldo atual.
+
+    
 ## Referência
 
  - [Instalação PHP Linux](https://www.edivaldobrito.com.br/como-instalar-o-php-8-no-ubuntu-e-sistemas-derivados/)
