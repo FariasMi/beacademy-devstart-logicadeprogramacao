@@ -134,25 +134,33 @@ php --version
     da pessoa e a classifique de acordo com a
     tabela:
 
-    | Valor do IMC     | Classificação     | 
-    | :----------------| :-----------------| 
-    | IMC < 19         | Abaixo do peso    | 
-    | 19 >= IMC < 25   | Peso Normal       | 
-    | 25 >= IMC < 30   | Sobrepeso         |
-    | 30 >= IMC < 40   | Obesidade tipo 1  |
-    | IMC >= 40        | Obesidade Mórbida |
+| Valor do IMC     | Classificação     | 
+| :----------------| :-----------------| 
+| IMC < 19         | Abaixo do peso    | 
+| 19 >= IMC < 25   | Peso Normal       | 
+| 25 >= IMC < 30   | Sobrepeso         |
+| 30 >= IMC < 40   | Obesidade tipo 1  |
+| IMC >= 40        | Obesidade Mórbida |
 
 **Exercício 9**
+
     Crie um programa que receba a idade da
     pessoa e a classifique de acordo com a tabela:
-    
-    | Idade                     | Classificação          | 
-    | :-------------------------| :----------------------| 
-    | Menos de 18 anos          | Menor de idade         | 
-    | Maior que 18 menor que 60 | Adulto                 | 
-    | Mais que 60               | Idoso                  |
-   
 
+| Idade                     | Classificação          | 
+| :-------------------------| :----------------------| 
+| Menos de 18 anos          | Menor de idade         | 
+| Maior que 18 menor que 60 | Adulto                 | 
+| Mais que 60               | Idoso                  |
+
+
+**Exercício 10**   
+    Crie um programa que permita ao usuário escolher a
+    operação a realizar (depósito ou saque), receba a
+    informação da operação escolhida e o valor do
+    usuário e, em seguida, atualize o seu saldo. Ao final
+    exiba o valor inicial, a operação realizada e o saldo
+    atual.
 ## Referência
 
  - [Instalação PHP Linux](https://www.edivaldobrito.com.br/como-instalar-o-php-8-no-ubuntu-e-sistemas-derivados/)
