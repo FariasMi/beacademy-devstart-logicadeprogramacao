@@ -129,6 +129,18 @@ php --version
     Se salário igual a 1200, exiba: "Seu salário é igual ao salário mínimo"
     Senão exiba " Seu salário é menor que o salário mínimo"
 
+**Exercício 8**
+    Crie um programa que receba a altura e o peso
+    da pessoa e a classifique de acordo com a
+    tabela:
+    | Valor do IMC     | Classificação     | 
+    | :----------------| :-----------------| 
+    | IMC < 19         | Abaixo do peso    | 
+    | 19 >= IMC < 25   | Peso Normal       | 
+    | 25 >= IMC < 30   | Sobrepeso         |
+    | 30 >= IMC < 40   | Obesidade tipo 1  |
+    | IMC >= 40         | Obesidade Mórbida |
+
 ## Referência
 
  - [Instalação PHP Linux](https://www.edivaldobrito.com.br/como-instalar-o-php-8-no-ubuntu-e-sistemas-derivados/)
