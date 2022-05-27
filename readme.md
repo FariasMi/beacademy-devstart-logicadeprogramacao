@@ -137,9 +137,9 @@ php --version
 | Valor do IMC     | Classificação     | 
 | :----------------| :-----------------| 
 | IMC < 19         | Abaixo do peso    | 
-| 19 >= IMC < 25   | Peso Normal       | 
-| 25 >= IMC < 30   | Sobrepeso         |
-| 30 >= IMC < 40   | Obesidade tipo 1  |
+| 19 <= IMC < 25   | Peso Normal       | 
+| 25 <= IMC < 30   | Sobrepeso         |
+| 30 <= IMC < 40   | Obesidade tipo 1  |
 | IMC >= 40        | Obesidade Mórbida |
 
 **Exercício 9**
