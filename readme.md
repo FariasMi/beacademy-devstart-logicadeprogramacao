@@ -83,7 +83,7 @@ php --version
     
     Faça um algoritmo que receba o nome como entrada e exiba Seja Bem-Vindo [nome]
 
-Link da Resolução:[Exercicio1](./exercicio1/index.php) <br>
+Link da Resolução:[Exercicio1](./exercicio01/index.php) <br>
 **Exercício 2**
     
     Faça um algoritmo que receba o nome e endereço e exiba-os na tela
