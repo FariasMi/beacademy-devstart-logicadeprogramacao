@@ -121,8 +121,13 @@ php --version
     Crie um programa que receba o nome e salário
     Se salário maior que 1200, exiba: "Seu salário é maior que o salário mínimo"
     Senão exiba " Seu salário é menor que o salário mínimo"
-\
 
+**Exercício 7**
+    
+    Crie um programa que receba o nome e salário
+    Se salário maior que 1200, exiba: "Seu salário é maior que o salário mínimo"
+    Se salário igual a 1200, exiba: "Seu salário é igual ao salário mínimo"
+    Senão exiba " Seu salário é menor que o salário mínimo"
 
 ## Referência
 
