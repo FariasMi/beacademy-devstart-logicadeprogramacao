@@ -79,9 +79,11 @@ php --version
 ## Exercícios
 
 **Exercício 1**
+
     
     Faça um algoritmo que receba o nome como entrada e exiba Seja Bem-Vindo [nome]
 
+Link da Resolução:[Exercicio1](./exercicio1/index.php) <br>
 **Exercício 2**
     
     Faça um algoritmo que receba o nome e endereço e exiba-os na tela
@@ -161,7 +163,160 @@ php --version
     usuário e, em seguida, atualize o seu saldo. Ao final
     exiba o valor inicial, a operação realizada e o saldo
     atual.
-## Referência
+
+
+
+**Exercício 11**
+    Crie um programa que solicite ao usuário a
+    operação desejada e implemente as quatro
+    operações matemáticas (soma, subtração,
+    multiplicação e divisão)
+
+**Exercício 12**
+    Crie um programa que receba do usuário a
+    figura geométrica que deseja calcular a área e
+    o perímetro (Q-Quadrado ou T-Triângulo) e
+    calcule e exiba a área e o perímetro da figura
+    escolhida.
+
+**Exercício 13**
+    Crie um programa que, utilizando a estrutura escolha
+    caso, permita ao usuário escolher a operação a
+    realizar (depósito ou saque ou transferência) , caso a
+    operação seja de transferência solicite o nome do
+    banco, da agência e conta, receba as informações e,
+    em ao final exiba o valor inicial, a operação realizada
+    e o saldo atual, no caso de transferência exiba
+    também os dados do banco, agência e conta.
+
+
+**Exercício 14**
+    Crie um programa que receba do usuário um
+    número e apresente a Tabuada deste.
+
+**Exercício 15**
+    Crie um programa que apresente os múltiplos
+    de dois entre 0 e 100.
+
+**Exercício 16**
+    Crie um programa que imprima os múltiplos
+    de 3 entre dois números digitados pelo
+    usuário.
+
+**Exercício 17**
+    Crie um programa que, imprima a tabuada de um
+    número digitado pelo usuário.
+
+
+**Exercício 18**
+    Crie um programa que solicite ao usuário o seu
+    nome e senha do cartão e valide se a senha e
+    nome são corretos (Nome: Marcos e senha:
+    paylivre) e, caso positivo, dê boas vindas ao
+    usuário e, em caso negativo, solicite os dados
+    novamente.
+
+**Exercício 19**
+    Crie um programa que realize as 4 operações
+    matemática a partir de dois números que serão
+    digitados pelo usuário. Após isto imprima os
+    valores na tela e em seguida pergunte se ele quer
+    realizar novo cálculo, repetido as operações
+    enquanto o usuário desejar continuar.
+
+
+**Exercício 20**
+    Crie um programa que permita ao usuário escolher a
+    operação a realizar:
+    1. Depósito;
+    2. Saque;
+    3. Transferência;
+    4. Empréstimo;
+    Em seguida solicite os dados para concretizar a
+    operação e imprima o nome da operação feita e os
+    dados referentes a ela. Exemplo:
+    Depósito no Banco BOM agencia: 12-3 conta 1234-5
+    para Marcos Monteiro. Saldo inicial: R$ 1000,00
+    Depósito: R$500,00 Saldo final: R$ 1500,00.
+    O programa deverá permitir ao usuário realizar
+    quantas operações ele desejar, implemente a solução
+    utilizando a estrutura enquanto.
+
+**Exercício 21**
+    Crie um programa que permita ao usuário tentar logar
+    em seu Sistema informando seu nome e senha. Repita a
+    operação até que o nome e senha correspondam a um
+    valor armazenado(Marcos – 1234). Caso o usuário
+    digite -1 interrompa a repetição e informe que o
+    programa será finalizado por solicitação do usuário.
+
+**Exercício 22**
+    Solicitar a idade de várias pessoas e imprimir:
+    • Total de pessoas com menos de 18 anos.
+    • Total de pessoas com mais de 60 anos.
+    • O programa termina quando idade for =-99.
+
+**Exercício 23**
+    Apresentar o total da soma obtida dos cem primeiros
+    números inteiros.
+
+**Exercício 24**
+    Crie um programa inicie o saldo do cliente com R$
+    1000,00 e que permita o saques consecutivos no valor
+    de R$ 150.00 até que seu saldo seja positivo.
+
+    Quando isto ocorrer interrompa a operação e informe
+    que o saque não pode ser efetuado em razão de que o
+    saldo era insuficiente para efetuar a operação
+
+
+**Exercício 25**
+    Faça um programa que solicite ao usuário o
+    nome e o preço de 10 produtos e armazene-os
+    em um vetor. Ao final imprima o nome e os
+    valores correspondentes dos produtos.
+
+**Exercício 26**
+    Crie um programa que permita cadastrar os
+    seguintes dados de um Aluno: Nome, nota1 e
+    nota2. Receba estes valores em vetores e
+    calcule e exiba ao final todos os dados e a
+    informação se o aluno foi aprovado(media
+    maior ou igual a 6) ou reprovado(media
+    inferior a 6).
+    
+**Exercício 27**
+    Crie um programa que permita ao usuário
+    cadastrar 5 clientes com os seguintes dados:
+    • Nome;
+    • CPF;
+    • RG;
+    • Endereço; e
+    • Telefone.
+
+    Guarde os dados dos clientes em um vetor e
+    o final exiba-os.
+
+**Exercício 28**
+    Faça um programa para calcular a área e o perímetro
+    de um círculo. O usuário deve informar o valor do
+    raio do círculo. Caso o raio seja um valor negativo,
+    deve-se informar uma mensagem de erro e solicitar
+    ao usuário que informe um novo valor. Utilize o valor
+    de 3,1416 para p (pi). Área = PI*Raio*Raio
+    Perímetro = 2*PI*Raio. Exiba ao final o valor do raio
+    e o perímetro e a área.
+
+**Exercício 29** 
+    Faça um programa para calcular o valor de cada
+    parcela de um financiamento a ser escolhido pelo
+    usuário. A parcela será formada pelas seguintes regra:
+    •Caso o usuário escolha 2 parcelas os juros serão de 2%
+    ao mês;
+    •Caso o usuário escolha 3 parcelas os juros serão de 3%
+    ao mês;
+    • Ao final imprima o valor financiado, o total de
+    paracelas e o valor de cada parcela.
 
  - [Instalação PHP Linux](https://www.edivaldobrito.com.br/como-instalar-o-php-8-no-ubuntu-e-sistemas-derivados/)
  - [Instalação PHP Windows](https://blog.schoolofnet.com/como-instalar-o-php-no-windows-do-jeito-certo-e-usar-o-servidor-embutido/)
