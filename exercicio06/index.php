@@ -22,7 +22,6 @@
             $nome= $_POST['nome'];
             $salario = floatval($_POST['salario']);
             
-            echo "<h1>Olá {$nome}</h1>";
             if($salario > 1200){
                 echo "<h2>{$nome}, seu salário é maior que o salário mínimo!!!</h2>";
             }else{
