@@ -116,7 +116,14 @@ php --version
     do usuário e atualize o seu saldo. Ao final exiba o
     valor inicial, o depósito e o saldo atual.
 
+**Exercício 6**
     
+    Crie um programa que receba o nome e salário
+    Se salário maior que 1200, exiba: "Seu salário é maior que o salário mínimo"
+    Senão exiba " Seu salário é menor que o salário mínimo"
+\
+
+
 ## Referência
 
  - [Instalação PHP Linux](https://www.edivaldobrito.com.br/como-instalar-o-php-8-no-ubuntu-e-sistemas-derivados/)
