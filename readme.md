@@ -334,8 +334,10 @@ inicie o servidor novamente com o nome da pasta do exercício
     ao mês;
     • Ao final imprima o valor financiado, o total de
     paracelas e o valor de cada parcela.
+    
+
+## Referência
 
  - [Instalação PHP Linux](https://www.edivaldobrito.com.br/como-instalar-o-php-8-no-ubuntu-e-sistemas-derivados/)
  - [Instalação PHP Windows](https://blog.schoolofnet.com/como-instalar-o-php-no-windows-do-jeito-certo-e-usar-o-servidor-embutido/)
-
 
