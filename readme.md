@@ -78,18 +78,14 @@ php --version
 
 ## Exercícios
 
-**Exercício 1**
-Link da Resolução: [Exercicio 1](./exercicio01/index.php) <br>
-    
+[Exercicio 1](./exercicio01/index.php) <br>    
     Faça um algoritmo que receba o nome como entrada e exiba Seja Bem-Vindo [nome]
 
 
-**Exercício 2**
-Link da Resolução: [Exercicio 2](./exercicio02/index.php) <br>    
+[Exercicio 2](./exercicio02/index.php) <br>    
     Faça um algoritmo que receba o nome e endereço e exiba-os na tela
 
-**Exercício 3**
-Link da Resolução: [Exercicio 3](./exercicio03/index.php) <br>   
+[Exercicio 3](./exercicio03/index.php) <br>   
     1. Crie um programa que declare 3 variáveis para
     receber o Nome, o peso e a altura de uma pessoa.
     Ao final imprima os dados na tela.
@@ -102,8 +98,7 @@ Link da Resolução: [Exercicio 3](./exercicio03/index.php) <br>
     encontra a fórmula para esclarecer como o cálculo é
     feito. 
 
-**Exercício 4**
-Link da Resolução: [Exercicio 4](./exercicio04/index.php) <br>  
+[Exercicio 4](./exercicio04/index.php) <br>  
     Crie um programa que receba o nome e a idade de uma pessoa e exiba:
     1. O nome e a idade informada;
     2. Verdadeiro Se a idade é maior que 18;
@@ -112,27 +107,24 @@ Link da Resolução: [Exercicio 4](./exercicio04/index.php) <br>
     5. Verdadeiro se a idade é diferente que 25 OU o nome é igual a Marcos;
     6. Verdadeiro se a idade dividida por 2 é igual a ZERO;
     
-**Exercício 5**
-Link da Resolução: [Exercicio 5](./exercicio05/index.php) <br>      
+[Exercicio 5](./exercicio05/index.php) <br>      
     Crie um programa que receba um valor de depósito
     do usuário e atualize o seu saldo. Ao final exiba o
     valor inicial, o depósito e o saldo atual.
 
-**Exercício 6**
-Link da Resolução: [Exercicio 6](./exercicio06/index.php) <br>      
+[Exercicio 6](./exercicio06/index.php) <br>      
     Crie um programa que receba o nome e salário
     Se salário maior que 1200, exiba: "Seu salário é maior que o salário mínimo"
     Senão exiba " Seu salário é menor que o salário mínimo"
 
-**Exercício 7**
-Link da Resolução: [Exercicio 7](./exercicio07/index.php) <br>      
+[Exercicio 7](./exercicio07/index.php) <br>      
     Crie um programa que receba o nome e salário
     Se salário maior que 1200, exiba: "Seu salário é maior que o salário mínimo"
     Se salário igual a 1200, exiba: "Seu salário é igual ao salário mínimo"
     Senão exiba " Seu salário é menor que o salário mínimo"
 
-**Exercício 8**
-Link da Resolução: [Exercicio 8](./exercicio08/index.php) <br>  
+
+[Exercicio 8](./exercicio08/index.php) <br>  
     Crie um programa que receba a altura e o peso
     da pessoa e a classifique de acordo com a
     tabela:
@@ -145,8 +137,7 @@ Link da Resolução: [Exercicio 8](./exercicio08/index.php) <br>
 | 30 <= IMC < 40   | Obesidade tipo 1  |
 | IMC >= 40        | Obesidade Mórbida |
 
-**Exercício 9**
-Link da Resolução: [Exercicio 9](./exercicio09/index.php) <br>  
+[Exercicio 9](./exercicio09/index.php) <br>  
     Crie um programa que receba a idade da
     pessoa e a classifique de acordo com a tabela:
 
@@ -157,8 +148,7 @@ Link da Resolução: [Exercicio 9](./exercicio09/index.php) <br>
 | Mais que 60               | Idoso                  |
 
 
-**Exercício 10**   
-Link da Resolução: [Exercicio 10](./exercicio10/index.php) <br>  
+[Exercicio 10](./exercicio10/index.php) <br>  
     Crie um programa que permita ao usuário escolher a
     operação a realizar (depósito ou saque), receba a
     informação da operação escolhida e o valor do
@@ -168,23 +158,23 @@ Link da Resolução: [Exercicio 10](./exercicio10/index.php) <br>
 
 
 
-**Exercício 11**
-Link da Resolução: [Exercicio 11](./exercicio11/index.php) <br>  
+[Exercicio 11](./exercicio11/index.php) <br>  
+
     Crie um programa que solicite ao usuário a
     operação desejada e implemente as quatro
     operações matemáticas (soma, subtração,
     multiplicação e divisão)
 
-**Exercício 12**
-Link da Resolução: [Exercicio 12](./exercicio12/index.php) <br>  
+[Exercicio 12](./exercicio12/index.php) <br>  
+
     Crie um programa que receba do usuário a
     figura geométrica que deseja calcular a área e
     o perímetro (Q-Quadrado ou T-Triângulo) e
     calcule e exiba a área e o perímetro da figura
     escolhida.
 
-**Exercício 13**
-Link da Resolução: [Exercicio 13](./exercicio13/index.php) <br>  
+[Exercicio 13](./exercicio13/index.php)<br>  
+
     Crie um programa que, utilizando a estrutura escolha
     caso, permita ao usuário escolher a operação a
     realizar (depósito ou saque ou transferência) , caso a
